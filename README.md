@@ -11,10 +11,14 @@ Technologies Used
 The project is built using the following tools and libraries:
 
 # Python 3.10+
-Pandas: Data manipulation and analysis
-NumPy: Numerical computations
-Scikit-learn: Machine learning models and metrics
-Matplotlib & Seaborn: Data visualization
+Pandas: Data manipulation and analysis  
+
+NumPy: Numerical computations  
+
+Scikit-learn: Machine learning models and metrics  
+
+Matplotlib & Seaborn: Data visualization  
+
 
 # Installation
 Follow these steps to set up the project:
