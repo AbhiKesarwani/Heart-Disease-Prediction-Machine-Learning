@@ -35,18 +35,25 @@ pip install -r requirements.txt
 
 # Usage
 
-1- Dataset Preparation: Download the dataset from Kaggle and place it in the data/ directory.
-2- Run the Notebook: Open the Jupyter Notebook:
+1- Dataset Preparation: Download the dataset from Kaggle and place it in the data/ directory.  
 
-jupyter notebook Heart_Disease_Prediction.ipynb
+2- Run the Notebook: Open the Jupyter Notebook:  
+
+
+jupyter notebook Heart_Disease_Prediction.ipynb  
+
 
 Follow the steps in the notebook to preprocess the data, train the model, and evaluate its performance.
 
 # Results
-Model Used: Logistic Regression (or replace with the model you used)
-Accuracy: 85% (example metric; replace with actual results)
-Precision: 82%
-Recall: 84%
+Model Used: Logistic Regression (or replace with the model you used)  
+
+Accuracy: 85% (example metric; replace with actual results)  
+
+Precision: 82%  
+
+Recall: 84%  
+
 The confusion matrix and other visualizations are available in the notebook for better insight.
 
 # Contributing
