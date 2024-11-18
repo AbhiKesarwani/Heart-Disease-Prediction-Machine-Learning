@@ -25,14 +25,20 @@ Matplotlib & Seaborn: Data visualization
 # Installation
 Follow these steps to set up the project:
 
-1- Clone the repository:
-git clone https://github.com/your-repository-name/heart-disease-prediction.git
-cd heart-disease-prediction
-2- Create a virtual environment:
-Copy code
-python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
-3- Install dependencies:
+1- Clone the repository:  
+
+git clone https://github.com/your-repository-name/heart-disease-prediction.git  
+
+cd heart-disease-prediction  
+
+2- Create a virtual environment:  
+
+python -m venv venv  
+
+source venv/bin/activate   # For Windows: venv\Scripts\activate  
+
+3- Install dependencies:  
+
 pip install -r requirements.txt
 
 # Usage
