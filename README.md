@@ -5,8 +5,10 @@ This project leverages machine learning techniques to predict the likelihood of 
 Heart disease is a leading cause of mortality globally. This beginner-friendly project demonstrates the application of machine learning in healthcare by predicting heart disease risk. It includes data preprocessing, feature engineering, model training, and evaluation.
 
 # Dataset
-Source: Kaggle
-Attributes: The dataset includes medical metrics such as age, cholesterol levels, blood pressure, and lifestyle factors like smoking habits.
+Source: Kaggle  
+
+Attributes: The dataset includes medical metrics such as age, cholesterol levels, blood pressure, and lifestyle factors like smoking habits.  
+
 Technologies Used
 The project is built using the following tools and libraries:
 
